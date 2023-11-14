@@ -176,6 +176,9 @@
     max-width: 90%;
     padding: 0;
   }
+  .section {
+    height: auto;
+  }
 }
 
 @media (max-width: 479px) {
